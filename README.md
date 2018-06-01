@@ -2,19 +2,17 @@
 
 ## Table of Contents
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
+* [Game Instructions](#Game Instructions)
+* [Library Dependencies](#Library Dependencies)
 
-## Instructions
+## Game Instructions
 
-The starter project has some HTML and CSS styling to display a static version of the Memory Game project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+* Flip over the card tile to reveal its underlying symbol. 
+* Your goal is to match two cards of the same symbol at a time.
+* To win the game with higher star rating, try to match all pairs in as minimum moves as possible.
+* Click on the "replay" symbol at the top right corner to restart the game at any time!
 
-To get started, open `js/app.js` and start building out the app's functionality
+## Library Dependencies
 
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
-
-## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
-
-For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
+* [animate.css](https://github.com/daneden/animate.css)
+* [vex](http://github.hubspot.com/vex/)
